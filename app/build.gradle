@@ -17,6 +17,13 @@ repositories {
 }
 
 dependencies {
+    // code auto generation
+    compileOnly 'org.projectlombok:lombok:1.18.24'
+    annotationProcessor 'org.projectlombok:lombok:1.18.24'
+
+    testCompileOnly 'org.projectlombok:lombok:1.18.24'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.24'
+
     // Use JUnit test framework.
     testImplementation 'junit:junit:4.13'
 
