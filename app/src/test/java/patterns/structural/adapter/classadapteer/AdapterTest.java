@@ -4,7 +4,6 @@ package patterns.structural.adapter.classadapteer;
 import org.junit.Test;
 import patterns.structural.adapter.objectadapter.EmployeeObjectAdapter;
 
-import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 public class AdapterTest
