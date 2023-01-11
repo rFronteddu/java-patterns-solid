@@ -2,6 +2,8 @@ package patterns.simplefactory;
 
 
 import org.junit.Test;
+import patterns.creational.simplefactory.Post;
+import patterns.creational.simplefactory.PostFactory;
 
 import static org.junit.Assert.assertTrue;
 

@@ -1,6 +1,7 @@
 package patterns.builder;
 
 import org.junit.Test;
+import patterns.creational.builder.*;
 
 import java.time.LocalDate;
 

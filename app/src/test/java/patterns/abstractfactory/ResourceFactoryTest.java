@@ -1,6 +1,8 @@
 package patterns.abstractfactory;
 
 import org.junit.Test;
+import patterns.creational.abstractfactory.*;
+
 import static org.junit.Assert.assertTrue;
 
 public class ResourceFactoryTest

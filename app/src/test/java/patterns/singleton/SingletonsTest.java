@@ -1,6 +1,9 @@
 package patterns.singleton;
 
 import org.junit.Test;
+import patterns.creational.singleton.EagerSingleton;
+import patterns.creational.singleton.LazySingletonDCL;
+import patterns.creational.singleton.LazySingletonRegistryIODH;
 
 import static org.junit.Assert.assertEquals;
 

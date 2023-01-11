@@ -1,9 +1,10 @@
 package patterns.objectpool;
 
 import org.junit.Test;
+import patterns.creational.objectpool.Bitmap;
+import patterns.creational.objectpool.ObjectPool;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotEquals;
 
 
 public class ObjectPoolTest

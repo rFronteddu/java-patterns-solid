@@ -1,6 +1,7 @@
 package patterns.prototype;
 
 import org.junit.Test;
+import patterns.creational.prototype.Swordsman;
 
 import static org.junit.Assert.assertEquals;
 
