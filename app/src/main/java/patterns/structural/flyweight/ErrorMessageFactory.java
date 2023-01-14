@@ -1,7 +1,5 @@
 package patterns.structural.flyweight;
 
-import patterns.creational.builder.User;
-
 import java.util.HashMap;
 import java.util.Map;
 

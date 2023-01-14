@@ -26,7 +26,8 @@ public class UserBannedErrorMessage implements ErrorMessage
         msg += "Banned for: " + (banDuration != null ? banDuration.toHours () : "1")  + " Hours";
     }
 
-    @Override public String getText (String code) {
-        return null;
+    // ignore extrinsic state argument
+    @Override public String getText (final String code) {
+        return msg;
     }
 }
