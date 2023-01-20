@@ -1,4 +1,4 @@
-package patterns.prototype;
+package patterns.creational.prototype;
 
 import org.junit.Test;
 import patterns.creational.prototype.Swordsman;

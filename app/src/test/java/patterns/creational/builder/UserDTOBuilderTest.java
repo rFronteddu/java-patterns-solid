@@ -1,4 +1,4 @@
-package patterns.builder;
+package patterns.creational.builder;
 
 import org.junit.Test;
 import patterns.creational.builder.*;

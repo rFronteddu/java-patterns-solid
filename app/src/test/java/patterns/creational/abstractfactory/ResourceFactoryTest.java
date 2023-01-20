@@ -1,4 +1,4 @@
-package patterns.abstractfactory;
+package patterns.creational.abstractfactory;
 
 import org.junit.Test;
 import patterns.creational.abstractfactory.*;

@@ -1,4 +1,4 @@
-package patterns.singleton;
+package patterns.creational.singleton;
 
 import org.junit.Test;
 import patterns.creational.singleton.EagerSingleton;

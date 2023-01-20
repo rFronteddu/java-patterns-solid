@@ -1,4 +1,4 @@
-package patterns.factorymethod;
+package patterns.creational.factorymethod;
 
 import org.junit.Test;
 import patterns.creational.factorymethod.JSONMessageCreator;

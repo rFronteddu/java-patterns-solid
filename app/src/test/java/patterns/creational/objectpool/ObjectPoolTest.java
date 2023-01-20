@@ -1,4 +1,4 @@
-package patterns.objectpool;
+package patterns.creational.objectpool;
 
 import org.junit.Test;
 import patterns.creational.objectpool.Bitmap;
