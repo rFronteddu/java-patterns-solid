@@ -9,4 +9,9 @@ public class Report
     final private String name;
     // "NOT ADMIN", "FINANCE_USER AND ADMIN"
     final private String permission;
+
+    public Report(final String name) {
+        this.name = name;
+        permission = "NONE";
+    }
 }
