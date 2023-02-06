@@ -8,3 +8,5 @@ Our PostFactory creates subclasses of the Post class using a static method. A St
 ## Singleton:
 ## Abstract Factory:
 Two implementations of our abstract factory (ResourceFactory) create a set of object meant to work together. The GoogleCloudResourceFactory/AWSResourceFactory creates the associated concrete storage and instance.
+## Bridge
+Client needs a FifoCollection and its concrete implementation Queue. The implementor has its own set of methods that do not correspond to FifoCollection ones. The concrete implementation Queue will use LinkedList to provide its concrete implementtation bridging the methods required by the client and the ones specified in LinkedList.
